@@ -1,0 +1,6 @@
+(4,(Nigeria,56))
+(6,(Indonesia,157))
+(2,(Brazil,119))
+(5,(China,1008))
+(3,(Germany-FRG,61))
+(1,(USA,231))
