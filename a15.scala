@@ -33,6 +33,6 @@ trainingData.collect().foreach(println)
 val categoricalFeaturesInfo = Map[Int, Int]()
 val model = DecisionTree.trainClassifier(trainingData, 45401, categoricalFeaturesInfo, "gini", 5, 100)
 
-val testData = Vectors.dense(Array(5000.0,21.0,27.0,13495.0))
+val testData = Vectors.dense(Array(5000.0,21.0,27.0))
 val prediction = model.predict(testData)
 println(prediction)
