@@ -5,7 +5,7 @@ Original data found from here: https://archive.ics.uci.edu/dataset/10/automobile
 Information on the data's columns is in file: imports-85.names
 The last line of the output here shows the predicted price of a car with peak-rm: 5000.0, city-mpg: 21.0, and highway-mpg: 27.0. 
 _____________________________________________________________________________
-How to run each python file:
+How to run the scala file:
 1. For simplicity, create a dataproc Linux VM environment (Google cloud has tools available).
 2. Upload these files into the VM's root: input.txt, a14.scala
 3. Type the following commands into the terminal:
