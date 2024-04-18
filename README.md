@@ -7,7 +7,7 @@ The last line of the output here shows the predicted price of a car with peak-rm
 _____________________________________________________________________________
 How to run the scala file:
 1. For simplicity, create a dataproc Linux VM environment (Google cloud has tools available).
-2. Upload these files into the VM's root: input.txt, a14.scala
+2. Upload the input and scala files into the VM's root.
 3. Type the following commands into the terminal:
    hdfs dfs -put input.txt input
    spark-shell -i [scala file here]
