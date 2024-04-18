@@ -5,7 +5,7 @@ Original data found from here: https://archive.ics.uci.edu/dataset/40/flags
 Information on the data's columns is in file: flag.names
 The output file here is what results from running these scripts.
 _____________________________________________________________________________
-How to run each python file:
+How to run the scala file:
 1. For simplicity, create a dataproc Linux VM environment (Google cloud has tools available).
 2. Upload these files into the VM's root: input.txt, a14.scala
 3. Type the following commands into the terminal:
